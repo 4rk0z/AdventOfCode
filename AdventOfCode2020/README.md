@@ -8,7 +8,7 @@ Advent of Code is an Advent calendar of small programming puzzles for a variety 
 
 
 | day| tasks                        |  status         | solutions                  |
-|----|------------------------------|-----------------|-------------------=--------|
+|----|------------------------------|-----------------|----------------------------|
 |  1.| [Report Repair][day1]        |  :star2::star2: | [solution](solutions/day01)|
 |  2.| [Password Philosophy][day2]  |  :star2::star2: | [solution](solutions/day02)|
 |  3.| [Toboggan Trajectory][day3]  |  :star2::star2: | [solution](solutions/day03)|
